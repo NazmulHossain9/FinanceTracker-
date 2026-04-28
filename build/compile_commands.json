@@ -1,0 +1,86 @@
+[
+{
+  "directory": "/home/nazmul/Desktop/FinanceTracker /build",
+  "command": "/usr/bin/c++ -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I\"/home/nazmul/Desktop/FinanceTracker /build/FinanceTracker_autogen/include\" -I\"/home/nazmul/Desktop/FinanceTracker /src\" -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtSql -isystem /usr/include/x86_64-linux-gnu/qt6/QtCharts -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGLWidgets -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/FinanceTracker.dir/FinanceTracker_autogen/mocs_compilation.cpp.o -c \"/home/nazmul/Desktop/FinanceTracker /build/FinanceTracker_autogen/mocs_compilation.cpp\"",
+  "file": "/home/nazmul/Desktop/FinanceTracker /build/FinanceTracker_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/FinanceTracker.dir/FinanceTracker_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/nazmul/Desktop/FinanceTracker /build",
+  "command": "/usr/bin/c++ -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I\"/home/nazmul/Desktop/FinanceTracker /build/FinanceTracker_autogen/include\" -I\"/home/nazmul/Desktop/FinanceTracker /src\" -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtSql -isystem /usr/include/x86_64-linux-gnu/qt6/QtCharts -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGLWidgets -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/FinanceTracker.dir/src/main.cpp.o -c \"/home/nazmul/Desktop/FinanceTracker /src/main.cpp\"",
+  "file": "/home/nazmul/Desktop/FinanceTracker /src/main.cpp",
+  "output": "CMakeFiles/FinanceTracker.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/nazmul/Desktop/FinanceTracker /build",
+  "command": "/usr/bin/c++ -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I\"/home/nazmul/Desktop/FinanceTracker /build/FinanceTracker_autogen/include\" -I\"/home/nazmul/Desktop/FinanceTracker /src\" -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtSql -isystem /usr/include/x86_64-linux-gnu/qt6/QtCharts -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGLWidgets -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/FinanceTracker.dir/src/models/Transaction.cpp.o -c \"/home/nazmul/Desktop/FinanceTracker /src/models/Transaction.cpp\"",
+  "file": "/home/nazmul/Desktop/FinanceTracker /src/models/Transaction.cpp",
+  "output": "CMakeFiles/FinanceTracker.dir/src/models/Transaction.cpp.o"
+},
+{
+  "directory": "/home/nazmul/Desktop/FinanceTracker /build",
+  "command": "/usr/bin/c++ -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I\"/home/nazmul/Desktop/FinanceTracker /build/FinanceTracker_autogen/include\" -I\"/home/nazmul/Desktop/FinanceTracker /src\" -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtSql -isystem /usr/include/x86_64-linux-gnu/qt6/QtCharts -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGLWidgets -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/FinanceTracker.dir/src/models/Account.cpp.o -c \"/home/nazmul/Desktop/FinanceTracker /src/models/Account.cpp\"",
+  "file": "/home/nazmul/Desktop/FinanceTracker /src/models/Account.cpp",
+  "output": "CMakeFiles/FinanceTracker.dir/src/models/Account.cpp.o"
+},
+{
+  "directory": "/home/nazmul/Desktop/FinanceTracker /build",
+  "command": "/usr/bin/c++ -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I\"/home/nazmul/Desktop/FinanceTracker /build/FinanceTracker_autogen/include\" -I\"/home/nazmul/Desktop/FinanceTracker /src\" -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtSql -isystem /usr/include/x86_64-linux-gnu/qt6/QtCharts -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGLWidgets -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/FinanceTracker.dir/src/models/Budget.cpp.o -c \"/home/nazmul/Desktop/FinanceTracker /src/models/Budget.cpp\"",
+  "file": "/home/nazmul/Desktop/FinanceTracker /src/models/Budget.cpp",
+  "output": "CMakeFiles/FinanceTracker.dir/src/models/Budget.cpp.o"
+},
+{
+  "directory": "/home/nazmul/Desktop/FinanceTracker /build",
+  "command": "/usr/bin/c++ -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I\"/home/nazmul/Desktop/FinanceTracker /build/FinanceTracker_autogen/include\" -I\"/home/nazmul/Desktop/FinanceTracker /src\" -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtSql -isystem /usr/include/x86_64-linux-gnu/qt6/QtCharts -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGLWidgets -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/FinanceTracker.dir/src/database/DatabaseManager.cpp.o -c \"/home/nazmul/Desktop/FinanceTracker /src/database/DatabaseManager.cpp\"",
+  "file": "/home/nazmul/Desktop/FinanceTracker /src/database/DatabaseManager.cpp",
+  "output": "CMakeFiles/FinanceTracker.dir/src/database/DatabaseManager.cpp.o"
+},
+{
+  "directory": "/home/nazmul/Desktop/FinanceTracker /build",
+  "command": "/usr/bin/c++ -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I\"/home/nazmul/Desktop/FinanceTracker /build/FinanceTracker_autogen/include\" -I\"/home/nazmul/Desktop/FinanceTracker /src\" -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtSql -isystem /usr/include/x86_64-linux-gnu/qt6/QtCharts -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGLWidgets -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/FinanceTracker.dir/src/ui/MainWindow.cpp.o -c \"/home/nazmul/Desktop/FinanceTracker /src/ui/MainWindow.cpp\"",
+  "file": "/home/nazmul/Desktop/FinanceTracker /src/ui/MainWindow.cpp",
+  "output": "CMakeFiles/FinanceTracker.dir/src/ui/MainWindow.cpp.o"
+},
+{
+  "directory": "/home/nazmul/Desktop/FinanceTracker /build",
+  "command": "/usr/bin/c++ -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I\"/home/nazmul/Desktop/FinanceTracker /build/FinanceTracker_autogen/include\" -I\"/home/nazmul/Desktop/FinanceTracker /src\" -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtSql -isystem /usr/include/x86_64-linux-gnu/qt6/QtCharts -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGLWidgets -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/FinanceTracker.dir/src/ui/AddTransactionDialog.cpp.o -c \"/home/nazmul/Desktop/FinanceTracker /src/ui/AddTransactionDialog.cpp\"",
+  "file": "/home/nazmul/Desktop/FinanceTracker /src/ui/AddTransactionDialog.cpp",
+  "output": "CMakeFiles/FinanceTracker.dir/src/ui/AddTransactionDialog.cpp.o"
+},
+{
+  "directory": "/home/nazmul/Desktop/FinanceTracker /build",
+  "command": "/usr/bin/c++ -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I\"/home/nazmul/Desktop/FinanceTracker /build/FinanceTracker_autogen/include\" -I\"/home/nazmul/Desktop/FinanceTracker /src\" -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtSql -isystem /usr/include/x86_64-linux-gnu/qt6/QtCharts -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGLWidgets -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/FinanceTracker.dir/src/ui/DashboardWidget.cpp.o -c \"/home/nazmul/Desktop/FinanceTracker /src/ui/DashboardWidget.cpp\"",
+  "file": "/home/nazmul/Desktop/FinanceTracker /src/ui/DashboardWidget.cpp",
+  "output": "CMakeFiles/FinanceTracker.dir/src/ui/DashboardWidget.cpp.o"
+},
+{
+  "directory": "/home/nazmul/Desktop/FinanceTracker /build",
+  "command": "/usr/bin/c++ -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I\"/home/nazmul/Desktop/FinanceTracker /build/FinanceTracker_autogen/include\" -I\"/home/nazmul/Desktop/FinanceTracker /src\" -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtSql -isystem /usr/include/x86_64-linux-gnu/qt6/QtCharts -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGLWidgets -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/FinanceTracker.dir/src/utils/CSVExporter.cpp.o -c \"/home/nazmul/Desktop/FinanceTracker /src/utils/CSVExporter.cpp\"",
+  "file": "/home/nazmul/Desktop/FinanceTracker /src/utils/CSVExporter.cpp",
+  "output": "CMakeFiles/FinanceTracker.dir/src/utils/CSVExporter.cpp.o"
+},
+{
+  "directory": "/home/nazmul/Desktop/FinanceTracker /build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_NO_DEBUG -DQT_TESTCASE_BUILDDIR=\"\\\"/home/nazmul/Desktop/FinanceTracker /build\\\"\" -DQT_TESTCASE_SOURCEDIR=\"\\\"/home/nazmul/Desktop/FinanceTracker \\\"\" -DQT_TESTLIB_LIB -I\"/home/nazmul/Desktop/FinanceTracker /build/FinanceTrackerTests_autogen/include\" -I\"/home/nazmul/Desktop/FinanceTracker /src\" -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtTest -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/FinanceTrackerTests.dir/FinanceTrackerTests_autogen/mocs_compilation.cpp.o -c \"/home/nazmul/Desktop/FinanceTracker /build/FinanceTrackerTests_autogen/mocs_compilation.cpp\"",
+  "file": "/home/nazmul/Desktop/FinanceTracker /build/FinanceTrackerTests_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/FinanceTrackerTests.dir/FinanceTrackerTests_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/nazmul/Desktop/FinanceTracker /build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_NO_DEBUG -DQT_TESTCASE_BUILDDIR=\"\\\"/home/nazmul/Desktop/FinanceTracker /build\\\"\" -DQT_TESTCASE_SOURCEDIR=\"\\\"/home/nazmul/Desktop/FinanceTracker \\\"\" -DQT_TESTLIB_LIB -I\"/home/nazmul/Desktop/FinanceTracker /build/FinanceTrackerTests_autogen/include\" -I\"/home/nazmul/Desktop/FinanceTracker /src\" -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtTest -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/FinanceTrackerTests.dir/tests/test_transaction.cpp.o -c \"/home/nazmul/Desktop/FinanceTracker /tests/test_transaction.cpp\"",
+  "file": "/home/nazmul/Desktop/FinanceTracker /tests/test_transaction.cpp",
+  "output": "CMakeFiles/FinanceTrackerTests.dir/tests/test_transaction.cpp.o"
+},
+{
+  "directory": "/home/nazmul/Desktop/FinanceTracker /build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_NO_DEBUG -DQT_TESTCASE_BUILDDIR=\"\\\"/home/nazmul/Desktop/FinanceTracker /build\\\"\" -DQT_TESTCASE_SOURCEDIR=\"\\\"/home/nazmul/Desktop/FinanceTracker \\\"\" -DQT_TESTLIB_LIB -I\"/home/nazmul/Desktop/FinanceTracker /build/FinanceTrackerTests_autogen/include\" -I\"/home/nazmul/Desktop/FinanceTracker /src\" -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtTest -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/FinanceTrackerTests.dir/src/models/Transaction.cpp.o -c \"/home/nazmul/Desktop/FinanceTracker /src/models/Transaction.cpp\"",
+  "file": "/home/nazmul/Desktop/FinanceTracker /src/models/Transaction.cpp",
+  "output": "CMakeFiles/FinanceTrackerTests.dir/src/models/Transaction.cpp.o"
+},
+{
+  "directory": "/home/nazmul/Desktop/FinanceTracker /build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_NO_DEBUG -DQT_TESTCASE_BUILDDIR=\"\\\"/home/nazmul/Desktop/FinanceTracker /build\\\"\" -DQT_TESTCASE_SOURCEDIR=\"\\\"/home/nazmul/Desktop/FinanceTracker \\\"\" -DQT_TESTLIB_LIB -I\"/home/nazmul/Desktop/FinanceTracker /build/FinanceTrackerTests_autogen/include\" -I\"/home/nazmul/Desktop/FinanceTracker /src\" -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtTest -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/FinanceTrackerTests.dir/src/models/Budget.cpp.o -c \"/home/nazmul/Desktop/FinanceTracker /src/models/Budget.cpp\"",
+  "file": "/home/nazmul/Desktop/FinanceTracker /src/models/Budget.cpp",
+  "output": "CMakeFiles/FinanceTrackerTests.dir/src/models/Budget.cpp.o"
+}
+]

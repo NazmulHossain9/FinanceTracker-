@@ -1,4 +1,3 @@
-// AddTransactionDialog.h
 #pragma once
 #include <QDialog>
 #include <QLineEdit>

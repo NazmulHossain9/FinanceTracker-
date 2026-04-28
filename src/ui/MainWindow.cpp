@@ -26,7 +26,6 @@ void MainWindow::setupUI() {
     auto* central    = new QWidget(this);
     auto* mainLayout = new QVBoxLayout(central);
 
-    // ── Summary bar ──────────────────────────────────────────────
     auto* summaryLayout = new QHBoxLayout();
     m_incomeLabel  = new QLabel("Income: $0.00");
     m_expenseLabel = new QLabel("Expenses: $0.00");
@@ -38,7 +37,6 @@ void MainWindow::setupUI() {
     summaryLayout->addStretch();
     summaryLayout->addWidget(m_balanceLabel);
 
-    // ── Transaction table ────────────────────────────────────────
     m_table = new QTableWidget();
     m_table->setColumnCount(5);
     m_table->setHorizontalHeaderLabels({"Date", "Title", "Category", "Type", "Amount"});
@@ -47,7 +45,6 @@ void MainWindow::setupUI() {
     m_table->setEditTriggers(QAbstractItemView::NoEditTriggers);
     m_table->setAlternatingRowColors(true);
 
-    // ── Buttons ──────────────────────────────────────────────────
     auto* btnLayout = new QHBoxLayout();
     m_addBtn    = new QPushButton("Add Transaction");
     m_deleteBtn = new QPushButton("Delete Selected");

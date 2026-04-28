@@ -8,10 +8,8 @@ QString typeToString(TransactionType type);
 
 class Transaction {
 public:
-    // From DB (has id)
     Transaction(int id, const QString& title, double amount,
                 TransactionType type, const QString& category, const QDate& date);
-    // New transaction (id assigned by DB)
     Transaction(const QString& title, double amount,
                 TransactionType type, const QString& category, const QDate& date);
 
